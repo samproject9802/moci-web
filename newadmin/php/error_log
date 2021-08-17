@@ -1,0 +1,8 @@
+[11-Jul-2021 09:38:19 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8
+[11-Jul-2021 09:38:19 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8
+[11-Jul-2021 09:40:41 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8
+[11-Jul-2021 09:40:41 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8
+[11-Jul-2021 09:40:46 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8
+[11-Jul-2021 09:40:46 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8
+[11-Jul-2021 09:40:48 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8
+[11-Jul-2021 09:40:48 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/moch7184/public_html/newadmin/php/koneksi.php on line 8

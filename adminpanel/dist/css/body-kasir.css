@@ -1,0 +1,37 @@
+body,
+html {
+  height: 100%;
+}
+
+.content-wrapper {
+  /* The image used */
+  background-image: url("../../assets/background-panel.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sidebar-dark-primary {
+  background-color: #a6e0ec;
+}
+
+[class*="sidebar-dark"] .brand-link {
+  border-bottom: 1px solid white;
+}
+
+[class*="sidebar-dark"] .user-panel {
+  border-bottom: 1px solid white;
+}
+
+[class*="sidebar-dark-"] .sidebar a {
+  color: #005380;
+}
+
+[class*="sidebar-dark-"] .nav-treeview > .nav-item > .nav-link {
+  color: #005380;
+}

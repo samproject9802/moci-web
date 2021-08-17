@@ -1,0 +1,14 @@
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  font-weight: bold;
+  background-color: #007bff;
+}
